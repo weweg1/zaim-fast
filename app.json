@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Открыть ИП или ООО",
+    "slug": "OpenIP",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.svg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.svg",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.svg",
+        "backgroundColor": "#ffffff"
+      },
+      "versionCode": 1,
+      "package": "com.how.create.ipq.ooo"
+    },
+    
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
